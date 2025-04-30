@@ -13,9 +13,9 @@ Using **Scikit-learn**, **NumPy**, and **Pandas**, I:
 
 ## Model Performance
 
-- **Mean Absolute Error (MAE)**: `453,105.70`
-- **Root Mean Squared Error (RMSE)**: `625,629.07`
-- **R² Score**: `0.88`
+- **Mean Absolute Error (MAE)**: `758,727.43`
+- **Root Mean Squared Error (RMSE)**: `1,036,228.85`
+- **R² Score**: `0.67`
 
 These results suggest that the model explains 88% of the variability in housing prices.
 
@@ -50,3 +50,9 @@ These results suggest that the model explains 88% of the variability in housing 
 - Matplotlib
 - SciPy
 - Scikit-learn
+
+## Improvements to be made
+
+- Remove Outliers
+- Engineer new features which better show the relationship between the features and the target
+- Try a different model (Random Forrest Model)
