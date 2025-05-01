@@ -17,7 +17,7 @@ Using **Scikit-learn**, **NumPy**, and **Pandas**, I:
 - **Root Mean Squared Error (RMSE)**: `1,036,228.85`
 - **R² Score**: `0.67`
 
-These results suggest that the model explains 88% of the variability in housing prices.
+These results suggest that the model explains 67% of the variability in housing prices.
 
 ## Dataset
 
