@@ -40,7 +40,6 @@ These results suggest that the model explains 67% of the variability in housing 
 - `Parking`
 - `Preferred Area`
 - `Furnishing Status`
-- `Price per sqft`
 
 ## Tools & Libraries
 
@@ -55,4 +54,3 @@ These results suggest that the model explains 67% of the variability in housing 
 
 - Remove Outliers
 - Engineer new features which better show the relationship between the features and the target
-- Try a different model (Random Forrest Model)
